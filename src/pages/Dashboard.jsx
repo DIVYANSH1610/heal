@@ -104,7 +104,7 @@ const Dashboard = () => {
                       <p className="text-base capitalize">{user.role}</p>
                     </div>
                     <div>
-                      <p className="text-sm font-medium text-muted-foreground">Health ID</p>
+                      <p className="text-sm font-medium text-muted-foreground">HEAL ID</p>
                       <p className="text-base font-mono">{user.healthId}</p>
                     </div>
                     <div>

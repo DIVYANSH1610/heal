@@ -33,7 +33,7 @@ const QRGenerator = ({ aadhaar, healthId, role, name }) => {
         
         const url = canvas.toDataURL('image/png');
         const a = document.createElement('a');
-        a.download = `HealthID_${healthId}_QR.png`;
+        a.download = `HEAL_${healthId}_QR.png`;
         a.href = url;
         document.body.appendChild(a);
         a.click();

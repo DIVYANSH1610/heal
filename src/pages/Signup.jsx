@@ -108,7 +108,7 @@ const Signup = () => {
     
     toast({
       title: "Registration Successful!",
-      description: `Welcome ${user.name}! Your Health ID: ${healthId}`,
+      description: `Welcome ${user.name}! Your HEAL ID: ${healthId}`,
     });
   };
 

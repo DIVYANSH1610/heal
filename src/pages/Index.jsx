@@ -42,7 +42,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-foreground mb-4">
-              Why Choose HealthID?
+              Why Choose HEAL?
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               Modern healthcare needs modern solutions. We provide secure, accessible, and efficient health identity management.
@@ -121,7 +121,7 @@ const Index = () => {
                 <Star className="w-12 h-12 mx-auto mb-4" />
                 <h3 className="text-2xl font-bold mb-4">Join Thousands</h3>
                 <p className="mb-6">
-                  Healthcare professionals and patients already trust HealthID for their digital health needs.
+                  Healthcare professionals and patients already trust HEAL for their digital health needs.
                 </p>
                 <Link to="/signup">
                   <Button variant="outline" className="bg-white/20 border-white/30 text-white hover:bg-white/30">
@@ -141,7 +141,7 @@ const Index = () => {
             <div className="col-span-1 md:col-span-2">
               <div className="flex items-center gap-2 mb-4">
                 <Heart className="w-6 h-6 text-primary" />
-                <span className="text-xl font-bold">HealthID</span>
+                <span className="text-xl font-bold">HEAL</span>
               </div>
               <p className="text-muted-foreground mb-4">
                 Secure, digital health identity for everyone. Built with modern technology and care.
@@ -167,7 +167,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-border mt-8 pt-8 text-center text-muted-foreground">
-            <p>&copy; 2024 HealthID. Secure Digital Health for All.</p>
+            <p>&copy; 2024 HEAL. Secure Digital Health for All.</p>
           </div>
         </div>
       </footer>

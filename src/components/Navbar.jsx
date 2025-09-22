@@ -12,7 +12,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link to="/" className="flex items-center gap-2 text-xl font-bold text-primary hover:scale-105 transition-bounce">
           <Heart className="w-6 h-6 text-primary" />
-          HealthID
+          HEAL
         </Link>
         
         <div className="flex items-center gap-4">
